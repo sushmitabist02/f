@@ -1,0 +1,29 @@
+.bx{
+    width: 310px;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    box-shadow: 0 4px 4px 0 rgba(198, 42, 133, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid rgba(198, 42, 133, 0.5) 1px;
+    padding: 20px;
+}
+
+li{
+    align-items: start;
+    justify-content: start;
+    text-align: left;
+    list-style: none;
+}
+
+.outer{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
