@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { useEffect } from "react";
 import axios from "axios";
 import styles from "./../Recipe/Recipe.module.css";
-import Search from "../Search/Search";
 import { useParams } from "react-router-dom";
+
 const Recipe = () => {
   const params = useParams();
   const { id } = params;

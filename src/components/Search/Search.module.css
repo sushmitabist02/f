@@ -2,8 +2,7 @@
     margin-top: 120px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center; 
 }
 
 input{
@@ -11,7 +10,6 @@ input{
     width: 600px;
     padding: 8px;
     margin: 10px;
-    /* border-radius: 2em; */
     box-shadow: 1px 1px rgb(248, 209, 238);
     border-color: rgb(231, 165, 231);
     margin-bottom: 30px;
@@ -22,7 +20,6 @@ button{
     padding: 8px;
     margin: 20px;
     color: rgb(233, 138, 233);
-    /* background-color: rgb(235, 91, 235); */
     border-color: rgb(235, 91, 235);
     box-shadow: 1px 1px rgb(188, 30, 188);
     width: 140px;
@@ -50,12 +47,6 @@ button:hover {
     padding: 10px;
     cursor: pointer;
 }
-
-/* .bx{
-    
-    text-align: center;
-
-} */
 
 img{
     width: 100%;

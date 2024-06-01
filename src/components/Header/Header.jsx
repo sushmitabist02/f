@@ -1,17 +1,13 @@
-import React from 'react'
-import styles from './../Header/Header.module.css'
-import logo from 'D:/REACT PROJECTS/FOOD-RECEIPE/src/assets/logo.png'
+import React from "react";
+import styles from "./../Header/Header.module.css";
 const Header = () => {
   return (
     <>
       <div className={styles.head}>
-        {/* <img src={logo} style={styles.log}/> */}
-        <h1 >
-            Food Receipe
-        </h1>
+        <h1>Food Receipe</h1>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

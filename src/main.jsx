@@ -14,10 +14,6 @@ const router = createBrowserRouter([
         path: "",
         element: <Search />,
       },
-      // {
-      //   path:"recipe",
-      //   element:<Recipe/>,
-      // },
       {
         path: ":id",
         element: <Recipe />,
