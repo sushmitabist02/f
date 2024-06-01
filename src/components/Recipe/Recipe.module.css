@@ -10,6 +10,7 @@
     width: 100%;
     border: solid rgba(198, 42, 133, 0.5) 1px;
     padding: 20px;
+    margin-top: 120px;
 }
 
 li{
@@ -26,4 +27,14 @@ li{
     margin: auto;
     width: 50%;
     padding: 10px;
+}
+
+.pic{
+    width: 100%;
+    height: 400px;
+   
+}
+
+h3{
+    color: rgb(229, 117, 214);
 }

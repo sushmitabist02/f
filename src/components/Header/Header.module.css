@@ -3,11 +3,13 @@
     height: 70px;
     background-color: rgb(218, 143, 195);
     font-size: small;
-    margin-top: 20px;
+    padding: 20px 0px;
     display: flex;
     justify-content: center;
     align-items: center; 
-    position: static;
+    position: fixed;
+    top: 0;
+    
 }
 
 h1{
